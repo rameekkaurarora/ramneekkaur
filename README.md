@@ -1,6 +1,6 @@
-# Ramneek Kaur Arora's Data Science Portfolio
+# Ramneek Kaur Arora'
 
-Welcome to my data science portfolio! Here you will find a collection of my projects, experience, skills, and certifications. I have a background in Computer Science with a specialization in Data Science and AI, and I am passionate about leveraging data to solve complex problems.
+Welcome to my portfolio! 🌟 Dive into my projects, experience, skills, and certifications collection. With a solid background in Computer Science, specializing in Data Science and AI, I'm passionate about using data to tackle complex challenges. I'm enthusiastic about opportunities in data science, analytics, AI, and related fields. Let's create something amazing together! 🚀📊🤖
 
 ## Contact Information
 - **Email:** aroraramneekkaur@gmail.com
