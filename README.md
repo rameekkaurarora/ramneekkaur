@@ -1,28 +1,18 @@
-# Ramneek Kaur Arora
-Welcome to my portfolio! 🌟 Dive into my collection of projects, experience, skills, and certifications. With a solid background in Computer Science, specializing in Data Science and AI, I'm passionate about using data to tackle complex challenges. I'm enthusiastic about opportunities in data science, analytics, AI, and related fields. Let's create something amazing together! 🚀📊🤖
-## Contact Information
-- **Email:** aroraramneekkaur@gmail.com
-- **LinkedIn:** [Ramneek Arora](https://www.linkedin.com/in/ramneekarora10/)
-- **GitHub:** [rameekkaurarora](https://github.com/rameekkaurarora)
+Hi there 👋, I'm Ramneek Kaur Arora, and I hold a Master's degree in Computer Science with a specialization in AI. My academic background is deeply rooted in data science and AI.
 
-## Table of Contents
-- [Projects](#projects)
-- [Certifications](#certifications)
-- [Education](#education)
-- [Experience](#experience)
-- [Skills](#skills)
+📖 **Coursework**: 
+- Data Science
+- Machine Learning
+- Data Visualization
+- Advanced Databases
+- Natural Language Processing
 
-## Projects
-Detailed descriptions and code for my data science and machine learning projects.
+🔭 **Interests**: I am passionate about Data Science and love solving problems using Machine Learning and AI techniques.
 
-## Certifications
-List of relevant certifications I have achieved.
+⚡ **Skills**: I have a strong background in software development and data analysis, with expertise in Python, R, SQL, TensorFlow, Keras, and various data visualization tools.
 
-## Education
-My academic background.
+📫 **How to reach me**:
+- 📧 Email: ramneekkaurarora@example.com
+- 🤝 LinkedIn: [Ramneek Kaur Arora](https://linkedin.com/in/ramneekkaurarora)
 
-## Experience
-Professional experiences and internships.
-
-## Skills
-Technical and soft skills.
+🌱 **In my spare time**, I enjoy working on data science projects and participating in online coding challenges on platforms like LeetCode. Check out my LeetCode profile here: [LeetCode](https://leetcode.com/ramneekkaurarora)
