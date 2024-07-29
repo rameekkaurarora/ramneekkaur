@@ -10,34 +10,26 @@ Hi there 👋, I'm Ramneek Kaur Arora, and I hold a Master's degree in Computer 
 🔭 **Interests**: I am passionate about Data Science and love solving problems using Machine Learning and AI techniques.
 
 ⚡ **Skills**: I have a strong background in data analysis and machine learning, with expertise in Python, R, SQL, TensorFlow, Keras, and various data visualization tools.
-⚡ **Tools and Technologies**:
+**Languages and Tools**:
 
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white&style=flat-square)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=flat-square)
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=flat-square)
-
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
-
-
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat-square)
-
-
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat-square)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=seaborn&logoColor=white&style=flat-square)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=flat-square)
-
-
+<p align="left">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png" alt="R" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/c-plus-plus/c-plus-plus.png" alt="C++" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/tableau/tableau.png" alt="Tableau" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/anaconda/anaconda.png" alt="Anaconda" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/microsoft-office/microsoft-office.png" alt="Microsoft Office" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/oracle/oracle.png" alt="Oracle" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png" alt="Pandas" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png" alt="NumPy" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/keras/keras.png" alt="Keras" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/matplotlib/matplotlib.png" alt="Matplotlib" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/seaborn/seaborn.png" alt="Seaborn" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/plotly/plotly.png" alt="Plotly" width="40" height="40"/>
+</p>
 📫 **How to reach me**:
 - 📧 Email: aroraramneekkaur@gmail.com
 - 🤝 LinkedIn: [Ramneek Kaur Arora](https://www.linkedin.com/in/ramneekarora10/)
