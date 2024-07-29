@@ -31,41 +31,17 @@ Hi there 👋, I'm Ramneek Kaur Arora, and I hold a Master's degree in Computer 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
 
-**Statistics:**
-- Inferential Statistics
-- Hypothesis Testing
-
-**Analytical Skills:**
-- Regression Analysis
-- Data Analysis
-- Statistical Analysis
 
 **Machine Learning Algorithms and Frameworks:**
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat-square)
-- Linear/Logistic Regression
-- Decision Trees
-- Random Forest
-- SVM
-- PCA
-- Clustering
+
 
 **Data Visualization Tools & Packages:**
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat-square)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=seaborn&logoColor=white&style=flat-square)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=flat-square)
 
-**Deep Learning:**
-- Neural Networks
-- Convolutional and Recurrent Neural Networks
-
-**Soft Skills:**
-- Self Starter
-- Problem Solving
-- Organizational Skills
-- Risk Management
-- Multitasking
-- Teamwork
 
 📫 **How to reach me**:
 - 📧 Email: aroraramneekkaur@gmail.com
