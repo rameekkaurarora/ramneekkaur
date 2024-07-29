@@ -13,6 +13,6 @@ Hi there 👋, I'm Ramneek Kaur Arora, and I hold a Master's degree in Computer 
 
 📫 **How to reach me**:
 - 📧 Email: aroraramneekkaur@gmail.com
-- 🤝 LinkedIn: [Ramneek Kaur Arora](https://linkedin.com/in/ramneekkaurarora)
+- 🤝 LinkedIn: [Ramneek Kaur Arora](https://www.linkedin.com/in/ramneekarora10/)
 
 🌱 **In my spare time**, I enjoy working on data science projects and participating in online coding challenges on platforms like LeetCode. Check out my LeetCode profile here: [LeetCode](https://leetcode.com/u/Ramneek10/)
