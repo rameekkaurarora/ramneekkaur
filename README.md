@@ -9,7 +9,7 @@ Hi there 👋, I'm Ramneek Kaur Arora, and I hold a Master's degree in Computer 
 
 🔭 **Interests**: I am passionate about Data Science and love solving problems using Machine Learning and AI techniques.
 
-⚡ **Skills**: I have a strong background in software development and data analysis, with expertise in Python, R, SQL, TensorFlow, Keras, and various data visualization tools.
+⚡ **Skills**: I have a strong background in data analysis and machine learning, with expertise in Python, R, SQL, TensorFlow, Keras, and various data visualization tools.
 
 📫 **How to reach me**:
 - 📧 Email: ramneekkaurarora@example.com
