@@ -30,7 +30,8 @@ Hi there 👋, I'm Ramneek Kaur Arora, and I hold a Master's degree in Computer 
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/seaborn/seaborn.png" alt="Seaborn" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/plotly/plotly.png" alt="Plotly" width="40" height="40"/>
 </p>
-📫 **How to reach me**:
+
+ **How to reach me**
 - 📧 Email: aroraramneekkaur@gmail.com
 - 🤝 LinkedIn: [Ramneek Kaur Arora](https://www.linkedin.com/in/ramneekarora10/)
 
